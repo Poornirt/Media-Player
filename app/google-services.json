@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "956975776501",
+    "firebase_url": "https://media-player-d3c4b.firebaseio.com",
+    "project_id": "media-player-d3c4b",
+    "storage_bucket": "media-player-d3c4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956975776501:android:3ca44b56bcf33fad8bfbbc",
+        "android_client_info": {
+          "package_name": "com.example.mediaplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956975776501-4qvd0edni2ju7fg3l8h0rtfpg17ch55l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwXlNoy1H7SQmnRV9rCzYa6zeueqJt2ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956975776501-4qvd0edni2ju7fg3l8h0rtfpg17ch55l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

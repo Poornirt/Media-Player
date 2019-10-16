@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/audio_image"
+        android:layout_width="75dp"
+        android:layout_height="70dp" />
+
+    <TextView
+        android:id="@+id/audio_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_margin="10dp"
+        android:textSize="16sp"
+        android:textColor="@android:color/black"
+        android:fontFamily="sans-serif-condensed-medium"
+        tools:text="sample"/>
+
+</LinearLayout>
